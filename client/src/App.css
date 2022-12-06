@@ -1,0 +1,12 @@
+.App {
+  width: 95%;
+  height: 95%;
+  border: 2px red solid;
+  padding: 5px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.Alignment {
+  align-self: center;
+}
